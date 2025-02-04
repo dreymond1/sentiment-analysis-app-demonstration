@@ -30,25 +30,24 @@ A aplicação pode ser utilizada para monitorar feedbacks de clientes, analisar 
 Antes de começar, você precisará ter os seguintes itens instalados:  
 
 - **Python 3.8+**  
-- **pip** (gerenciador de pacotes do Python)  
-- **Virtualenv** (opcional, mas recomendado)  
+- **pip** (gerenciador de pacotes do Python) 
 
 ## ⚡ Funcionalidades  
 
-### 🔍 Análise de Sentimentos em Tempo Real  
+### Análise de Sentimentos em Tempo Real  
 - Digite um comentário no campo de entrada e obtenha a previsão do sentimento (positivo, negativo ou neutro).  
 
-### 📂 Processamento de Arquivos CSV  
+### Processamento de Arquivos CSV  
 - Faça upload de um arquivo CSV contendo comentários para análise em massa.  
 - O modelo prevê os sentimentos para cada comentário e adiciona uma nova coluna com os resultados.  
 - Opção de download do arquivo processado com os sentimentos classificados.  
 
-### 📊 Visualização de Dados  
+### Visualização de Dados  
 - Gráficos interativos para melhor compreensão da distribuição dos sentimentos.  
 - Gráficos de barras empilhadas e lado a lado, utilizando **Plotly**.  
 - Análises temporais para observar tendências ao longo do tempo.  
 
-### 📗 Integração com Google Sheets  
+### Integração com Google Sheets  
 - Analise sentimentos diretamente de uma planilha do **Google Sheets**.  
 - Previsões são inseridas automaticamente na planilha original.  
 - Interface intuitiva para inserir ID da planilha, aba e colunas de interesse.  
