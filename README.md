@@ -2,7 +2,7 @@
 
 **Um aplicativo de Machine Learning para analisar sentimentos de comentários em tempo real ou via Google Sheets!**  
 
-### Objetivo
+## 🏹 Objetivo
 Dar uma maior autonomia aos stackeholders com a criação de ferramentas low-code/no-code, promovendo a democratização de análises e levantamento de insights
 
 #### **Quais os ganhos?**
