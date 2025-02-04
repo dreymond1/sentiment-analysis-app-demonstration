@@ -7,11 +7,11 @@ Dar uma maior autonomia aos stackeholders com a criação de ferramentas low-cod
 
 #### **Quais os ganhos?**
 
-**Autonomia e Agilidade**: Ferramentas LCNC permitem que stakeholders criem e personalizem soluções, acelerando processos de decisão e diminuindo dependências de TI.
+- **Autonomia e Agilidade**: Ferramentas LCNC permitem que stakeholders criem e personalizem soluções, acelerando processos de decisão e diminuindo dependências de TI.
 
-**Democratização e Acesso a Dados**: A análise de dados e insights se tornam acessíveis a todos, promovendo uma tomada de decisão mais informada e rápida em diversos níveis da organização.
+- **Democratização e Acesso a Dados**: A análise de dados e insights se tornam acessíveis a todos, promovendo uma tomada de decisão mais informada e rápida em diversos níveis da organização.
 
-**Redução de Custos e Inovação**: Menor necessidade de desenvolvedores, com soluções escaláveis e inovadoras sendo criadas diretamente pelas equipes de negócios.
+- **Redução de Custos e Inovação**: Menor necessidade de desenvolvedores, com soluções escaláveis e inovadoras sendo criadas diretamente pelas equipes de negócios.
 
 ## 📌 Sobre o Projeto  
 
