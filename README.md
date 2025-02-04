@@ -2,6 +2,17 @@
 
 **Um aplicativo de Machine Learning para analisar sentimentos de comentários em tempo real ou via Google Sheets!**  
 
+### Objetivo
+Dar uma maior autonomia aos stackeholders com a criação de ferramentas low-code/no-code, promovendo a democratização de análises e levantamento de insights
+
+#### **Quais os ganhos?**
+
+**Autonomia e Agilidade**: Ferramentas LCNC permitem que stakeholders criem e personalizem soluções, acelerando processos de decisão e diminuindo dependências de TI.
+
+**Democratização e Acesso a Dados**: A análise de dados e insights se tornam acessíveis a todos, promovendo uma tomada de decisão mais informada e rápida em diversos níveis da organização.
+
+**Redução de Custos e Inovação**: Menor necessidade de desenvolvedores, com soluções escaláveis e inovadoras sendo criadas diretamente pelas equipes de negócios.
+
 ## 📌 Sobre o Projeto  
 
 Este projeto é uma aplicação **Streamlit** que utiliza um modelo de **Machine Learning** para prever o sentimento de textos, sendo capaz de:  
