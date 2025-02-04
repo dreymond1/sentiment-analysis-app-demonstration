@@ -123,6 +123,6 @@ def process_comments_and_sentiments():
 
 ## 👨‍💻 Autor  
 
-Feito por Andrey Alves (https://www.linkedin.com/in/andrey-de-abreu-9a499b154/)  
+Feito por **Andrey Alves** (https://www.linkedin.com/in/andrey-de-abreu-9a499b154/)  
 Analista de Dados e entusiasta em ciência e engenharia de dados  
 Desenvolvedor de soluções inovadoras para análise de dados e automação.
