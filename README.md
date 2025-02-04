@@ -17,9 +17,9 @@ Dar uma maior autonomia aos stackeholders com a criação de ferramentas low-cod
 
 Este projeto é uma aplicação **Streamlit** que utiliza um modelo de **Machine Learning** para prever o sentimento de textos, sendo capaz de:  
 
-✅ **Analisar sentimentos** (positivo, negativo ou neutro) de comentários individuais.  
-✅ **Processar grandes volumes de dados** importando planilhas do **Google Sheets** ou arquivos **CSV**.  
-✅ **Visualizar insights** através de gráficos interativos com **Plotly**.  
+- **Analisar sentimentos** (positivo, negativo ou neutro) de comentários individuais.  
+- **Processar grandes volumes de dados** importando planilhas do **Google Sheets** ou arquivos **CSV**.  
+- **Visualizar insights** através de gráficos interativos com **Plotly**.  
 
 A aplicação pode ser utilizada para monitorar feedbacks de clientes, analisar avaliações de produtos ou qualquer outro conjunto de comentários.  
 
@@ -68,7 +68,7 @@ Antes de começar, você precisará ter os seguintes itens instalados:
 
 ### 1. Análise individual
 ```python
-# 🔍 Análise de Sentimento de um Comentário  
+# Análise de Sentimento de um Comentário  
 # Insira um comentário e analise seu sentimento  
 
 text_input = "O produto é incrível e superou minhas expectativas!"
@@ -84,7 +84,7 @@ if text_input.strip():
 ### 2. Análise em massa
 
 ```python
-# 📂 Analisando Sentimentos em um Arquivo CSV  
+# Analisando Sentimentos em um Arquivo CSV  
 # Faça upload de um arquivo CSV contendo comentários e processe a análise em massa  
 
 uploaded_file = "comentarios.csv"  # Nome do arquivo CSV
@@ -102,7 +102,7 @@ if uploaded_file:
 ### 3. Análise dentro de um material sheets
 
 ```python
-# 📗 Analisando Sentimentos de uma Planilha Google Sheets  
+# Analisando Sentimentos de uma Planilha Google Sheets  
 # Preencha os campos com o ID da planilha, nome da aba e colunas  
 
 SPREADSHEET_ID = "1YYvqp_w9zDIgjNHFC8mh7Rkku6gKRN7Rwo8ydHKCqVA"
